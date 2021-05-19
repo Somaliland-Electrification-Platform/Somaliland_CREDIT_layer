@@ -1,4 +1,5 @@
-# CREDIT_layer
+# CREDIT layer and Urban/Rural Demand Index for Somaliland
+
 The **Creating the Custom Residential Electricity Demand Indicative Target (CREDIT)** layer as presented in this [open access publication](https://www.mdpi.com/1996-1073/12/7/1395).
 
 Predicting electricity demand in currently un-electrified settlement is a challenge. Many energy access efforts use the multi-tier framework (MTF) as a point of reference; OnSSET in particular, uses this approach as it provides a good basis of (investment) comparison between different levels of access. Access tiers are assigned to settlements based on selection criteria; the most common approach (also adopted in GEP) is to assign tier-targets to urban/rural settlements respectively. This approach allows for limited spatial allocation of targets let alone it does not take into account newly available spatial information.
